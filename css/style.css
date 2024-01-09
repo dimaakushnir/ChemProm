@@ -121,6 +121,10 @@ body.lock {
   padding: 0 20px;
 }
 
+.wrapper-container {
+  overflow: hidden;
+}
+
 .mission {
   background-color: #290052;
   width: 100%;
